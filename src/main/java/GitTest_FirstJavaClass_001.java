@@ -9,7 +9,7 @@ public class GitTest_FirstJavaClass_001 {
         int yourAge = currentYear - yearOfBirth;
 
         System.out.println(text);
-        System.out.println(yourAgeText + yourAgeText + " " + years);
+        System.out.println(yourAgeText + yourAge + " " + years);
 
         //in this line testing revisions
 
